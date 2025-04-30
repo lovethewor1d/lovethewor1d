@@ -61,9 +61,3 @@ Welcome to my GitHub! I build tools for cybersecurity, automation, and offensive
 🌍 *[https://lovethewor1d.github.io/](https://lovethewor1d.github.io/)*
 
 ---
-
-## 🚨 Visitor Badge
-
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=lovethewor1d.lovethewor1d)
-
----
