@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Love
+# 👋 Hello, I'm Love Sharma
 
 🎯 Pentester | 🛠️ Developer | 🎮 CTF Creator  
 Welcome to my GitHub! I build tools for cybersecurity, automation, and offensive security testing. My work focuses on simplifying security assessments and streamlining day-to-day pentesting operations.
@@ -39,8 +39,37 @@ Welcome to my GitHub! I build tools for cybersecurity, automation, and offensive
 
 ---
 
-## 🌐 Connect with Me
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lovethewor1d&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🎓 Certifications
+
+<p align="left">
+  <a href="https://www.credential.net/136801286" target="_blank">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/136801286" alt="Certification 1"/>
+  </a>
+  <a href="https://www.credential.net/127376838" target="_blank">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/127376838" alt="Certification 2"/>
+  </a>
+  <a href="https://www.credential.net/100265417" target="_blank">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/100265417" alt="Certification 3"/>
+  </a>
+  <a href="https://www.credential.net/50394801" target="_blank">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50394801" alt="Certification 4"/>
+  </a>
+</p>
+
+---
 
 🌍 *[https://lovethewor1d.github.io/](https://lovethewor1d.github.io/)*
+
+---
+
+## 🚨 Visitor Badge
+
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=lovethewor1d.lovethewor1d)
 
 ---
