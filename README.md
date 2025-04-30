@@ -41,6 +41,6 @@ Welcome to my GitHub! I build tools for cybersecurity, automation, and offensive
 
 ## 🌐 Connect with Me
 
-- 🌍 Portfolio: *[https://lovethewor1d.github.io/](https://lovethewor1d.github.io/)*
+🌍 *[https://lovethewor1d.github.io/](https://lovethewor1d.github.io/)*
 
 ---
