@@ -39,12 +39,6 @@ Welcome to my GitHub! I build tools for cybersecurity, automation, and offensive
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lovethewor1d&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 🎓 Certifications
 
 <p align="left">
