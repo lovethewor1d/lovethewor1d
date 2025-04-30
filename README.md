@@ -58,6 +58,6 @@ Welcome to my GitHub! I build tools for cybersecurity, automation, and offensive
 
 ---
 
-🌍 *[https://lovethewor1d.github.io/](https://lovethewor1d.github.io/)*
+🌍 *[https://lovethewor1d.github.io/Love-CV/](https://lovethewor1d.github.io/Love-CV/)*
 
 ---
