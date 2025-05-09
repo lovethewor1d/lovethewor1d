@@ -1,8 +1,6 @@
 # 👋 Hello, I'm Love Sharma
 
 🎯 Pentester | 🛠️ Developer | 🎮 CTF Creator  
-Welcome to my GitHub! I build tools for cybersecurity, automation, and offensive security testing. My work focuses on simplifying security assessments and streamlining day-to-day pentesting operations.
-
 ---
 
 ## 🚀 Featured Projects
