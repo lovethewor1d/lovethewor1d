@@ -1,5 +1,3 @@
-# 👋 Hello, I'm Love Sharma
-
 🎯 Pentester | 🛠️ Developer | 🎮 CTF Creator  
 ---
 
