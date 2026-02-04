@@ -1,21 +1,19 @@
-# 🕶️ LoveTheWor1d
-
 ```bash
 $ whoami
 Pentester | Developer | CTF Creator
 
 $ cat focus.txt
-Web Security • Automation • Cloud Security • Offensive Tooling
+Pentesting • Automation • Cloud Security • Offensive Tooling
 
-$ echo "Break systems. Understand deeply. Build better tools."
+$ echo "Break systems. Understand deeply. Build better tools. Help others."
 ```
 
-🌍 **Online CV / Portfolio**  
+🌍 **Website**  
 https://lovethewor1d.github.io/Love-CV/
 
 ---
 
-## ☠️ Arsenal
+## 🚀 Featured Projects
 
 | Tool | Description |
 |------|-------------|
@@ -41,18 +39,6 @@ https://lovethewor1d.github.io/Love-CV/
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lovethewor1d&show_icons=true&hide_title=true&hide_rank=true&theme=dark&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovethewor1d&layout=compact&theme=dark&bg_color=0d1117&text_color=c9d1d9&border_color=30363d&hide=html,css" />
-</p>
-
----
-
 ## 🎓 Certifications
 
 <p align="left">
@@ -69,14 +55,6 @@ https://lovethewor1d.github.io/Love-CV/
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50394801" />
   </a>
 </p>
-
----
-
-## 🧠 Mindset
-
-> Automate what can be automated.  
-> Trust nothing by default.  
-> Break systems to understand how to defend them.
 
 ---
 
