@@ -1,31 +1,54 @@
-🎯 Pentester | 🛠️ Developer | 🎮 CTF Creator  
----
+# 🕶️ LoveTheWor1d
 
-🌍 *[https://lovethewor1d.github.io/Love-CV/](https://lovethewor1d.github.io/Love-CV/)*
+```bash
+$ whoami
+Pentester | Developer | CTF Creator
 
----
-## 🚀 Featured Projects
+$ cat focus.txt
+Web Security • Automation • Cloud Security • Offensive Tooling
 
-| Project | Description |
-|--------|-------------|
-| 🔧 [Automated-Web-App-Creator](https://github.com/lovethewor1d/Automated-Web-App-Creator) | Automatically creates a web app environment with basic pentest targets. |
-| 📦 [aws-scanner](https://github.com/lovethewor1d/aws-scanner) | Shell script to enumerate AWS resources and scan for misconfigurations. |
-| 🔐 [encrypter](https://github.com/lovethewor1d/encrypter) | Python-based GUI tool for encrypting/decrypting payloads. |
-| 🌐 [Nmap-automation](https://github.com/lovethewor1d/Nmap-automation) | Web app to automate Nmap scans and generate easy-to-read reports. |
-| 🔒 [ssl-cipher-check](https://github.com/lovethewor1d/ssl-cipher-check) | Python tool to analyze SSL cipher suites and identify weak configs. |
-| ⚙️ [nmap-powershell](https://github.com/lovethewor1d/nmap-powershell) | PowerShell scripts to run and automate Nmap scanning tasks. |
+$ echo "Break systems. Understand deeply. Build better tools."
+```
+
+🌍 **Online CV / Portfolio**  
+https://lovethewor1d.github.io/Love-CV/
 
 ---
 
-## 🧰 Skills & Tools
+## ☠️ Arsenal
+
+| Tool | Description |
+|------|-------------|
+| 🔧 [Automated-Web-App-Creator](https://github.com/lovethewor1d/Automated-Web-App-Creator) | Spins up vulnerable web application environments for hands-on pentesting and exploitation practice. |
+| 📦 [aws-scanner](https://github.com/lovethewor1d/aws-scanner) | Shell-based AWS enumeration tool to identify exposed resources and cloud misconfigurations. |
+| 🔐 [encrypter](https://github.com/lovethewor1d/encrypter) | Python GUI tool for encrypting and decrypting payloads during offensive operations. |
+| 🌐 [Nmap-automation](https://github.com/lovethewor1d/Nmap-automation) | Web application that automates Nmap scans and produces readable, actionable reports. |
+| 🔒 [ssl-cipher-check](https://github.com/lovethewor1d/ssl-cipher-check) | Analyzes SSL/TLS cipher suites to identify weak cryptographic configurations. |
+| ⚙️ [nmap-powershell](https://github.com/lovethewor1d/nmap-powershell) | PowerShell automation scripts for efficient network reconnaissance using Nmap. |
+
+---
+
+## 🧰 Skills & Tooling
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Scripting-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25"/>
-  <img src="https://img.shields.io/badge/Python-Development-informational?style=flat&logo=python&logoColor=white&color=3776AB"/>
-  <img src="https://img.shields.io/badge/PowerShell-Automation-informational?style=flat&logo=powershell&logoColor=white&color=5391FE"/>
-  <img src="https://img.shields.io/badge/Nmap-Network_Scanner-informational?style=flat&color=004d7a"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-Web_Security-informational?style=flat&color=FF6F00"/>
-  <img src="https://img.shields.io/badge/Metasploit-Exploit_Framework-informational?style=flat&color=0F0F0F"/>
+  <img src="https://img.shields.io/badge/Bash-Scripting-black?style=flat-square&logo=gnu-bash"/>
+  <img src="https://img.shields.io/badge/Python-Development-111827?style=flat-square&logo=python"/>
+  <img src="https://img.shields.io/badge/PowerShell-Automation-1e3a8a?style=flat-square&logo=powershell"/>
+  <img src="https://img.shields.io/badge/Nmap-Reconnaissance-0f172a?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-Web_Exploitation-7c2d12?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Metasploit-Framework-000000?style=flat-square"/>
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=lovethewor1d&show_icons=true&hide_title=true&hide_rank=true&theme=dark&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovethewor1d&layout=compact&theme=dark&bg_color=0d1117&text_color=c9d1d9&border_color=30363d&hide=html,css" />
 </p>
 
 ---
@@ -34,17 +57,30 @@
 
 <p align="left">
   <a href="https://www.credential.net/136801286" target="_blank">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/136801286" alt="Certification 1"/>
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/136801286" />
   </a>
   <a href="https://www.credential.net/127376838" target="_blank">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/127376838" alt="Certification 2"/>
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/127376838" />
   </a>
   <a href="https://www.credential.net/100265417" target="_blank">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/100265417" alt="Certification 3"/>
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/100265417" />
   </a>
   <a href="https://www.credential.net/50394801" target="_blank">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50394801" alt="Certification 4"/>
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50394801" />
   </a>
 </p>
 
 ---
+
+## 🧠 Mindset
+
+> Automate what can be automated.  
+> Trust nothing by default.  
+> Break systems to understand how to defend them.
+
+---
+
+```bash
+$ exit
+Connection closed.
+```
