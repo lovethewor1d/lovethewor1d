@@ -1,6 +1,9 @@
 🎯 Pentester | 🛠️ Developer | 🎮 CTF Creator  
 ---
 
+🌍 *[https://lovethewor1d.github.io/Love-CV/](https://lovethewor1d.github.io/Love-CV/)*
+
+---
 ## 🚀 Featured Projects
 
 | Project | Description |
@@ -27,14 +30,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovethewor1d&layout=compact&theme=radical" width="49%"/>
-</p>
-
----
-
 ## 🎓 Certifications
 
 <p align="left">
@@ -51,9 +46,5 @@
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50394801" alt="Certification 4"/>
   </a>
 </p>
-
----
-
-🌍 *[https://lovethewor1d.github.io/Love-CV/](https://lovethewor1d.github.io/Love-CV/)*
 
 ---
