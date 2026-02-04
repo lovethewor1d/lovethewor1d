@@ -1,7 +1,7 @@
 🎯 Pentester | 🛠️ Developer | 🎮 CTF Creator  
 ---
 
-🌍 **Website** 
+🌍 **Website**
 *[https://lovethewor1d.github.io/Love-CV/](https://lovethewor1d.github.io/Love-CV/)*
 
 ---
