@@ -18,11 +18,11 @@ https://lovethewor1d.github.io/Love-CV/
 | Tool | Description |
 |------|-------------|
 | 🔧 [Automated-Web-App-Creator](https://github.com/lovethewor1d/Automated-Web-App-Creator) | Spins up vulnerable web application environments for hands-on pentesting and exploitation practice. |
-| 📦 [aws-scanner](https://github.com/lovethewor1d/aws-scanner) | Shell-based AWS enumeration tool to identify exposed resources and cloud misconfigurations. |
+| 📦 [aws-scanner](https://github.com/lovethewor1d/aws-scanner) | Shell script to enumerate AWS resources and scan for misconfigurations. |
 | 🔐 [encrypter](https://github.com/lovethewor1d/encrypter) | Python GUI tool for encrypting and decrypting payloads during offensive operations. |
 | 🌐 [Nmap-automation](https://github.com/lovethewor1d/Nmap-automation) | Web application that automates Nmap scans and produces readable, actionable reports. |
 | 🔒 [ssl-cipher-check](https://github.com/lovethewor1d/ssl-cipher-check) | Analyzes SSL/TLS cipher suites to identify weak cryptographic configurations. |
-| ⚙️ [nmap-powershell](https://github.com/lovethewor1d/nmap-powershell) | PowerShell automation scripts for efficient network reconnaissance using Nmap. |
+| ⚙️ [nmap-powershell](https://github.com/lovethewor1d/nmap-powershell) | PowerShell script for efficient network reconnaissance using Nmap. |
 
 ---
 
