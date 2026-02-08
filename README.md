@@ -36,19 +36,19 @@ https://lovethewor1d.github.io/Love-CV/
 
 <p align="left">
   <a href="https://www.credential.net/136801286" target="_blank">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/136801286" alt="Certification 1" height="120"/>/>
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/136801286" alt="Certification 1" height="120"/>
   </a>
   <a href="https://www.credential.net/127376838" target="_blank">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/127376838" alt="Certification 2" height="120"/>/>
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/127376838" alt="Certification 2" height="120"/>
   </a>
   <a href="https://www.credential.net/100265417" target="_blank">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/100265417" alt="Certification 3" height="120"/>/>
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/100265417" alt="Certification 3" height="120"/>
   </a>
   <a href="https://www.credential.net/50394801" target="_blank">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50394801" alt="Certification 4" height="120"/>/>
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50394801" alt="Certification 4" height="120"/>
   </a>
   <a href="https://pentestingexams.com/certificate-validation/" target="_blank">
-    <img src="https://exams.mayurvyas.me/wp-content/uploads/2023/10/cert-stamp-ccpenX-AWS-1.png" alt="Certification 5" height="120"/>/>
+    <img src="https://exams.mayurvyas.me/wp-content/uploads/2023/10/cert-stamp-ccpenX-AWS-1.png" alt="Certification 5" height="120"/>
   </a>
 </p>
 
