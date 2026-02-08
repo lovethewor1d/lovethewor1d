@@ -48,7 +48,7 @@ https://lovethewor1d.github.io/Love-CV/
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50394801" alt="Certification 4"/>
   </a>
   <a href="https://pentestingexams.com/certificate-validation/" target="_blank">
-    <img src="https://exams.mayurvyas.me/wp-content/uploads/2023/10/cert-stamp-ccpenX-AWS-1.png" alt="Certification 4"/>
+    <img src="https://exams.mayurvyas.me/wp-content/uploads/2023/10/cert-stamp-ccpenX-AWS-1.png" alt="Certification 5"/>
   </a>
 </p>
 
