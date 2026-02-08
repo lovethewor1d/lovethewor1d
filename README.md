@@ -25,6 +25,7 @@ https://lovethewor1d.github.io/Love-CV/
   <img src="https://img.shields.io/badge/Python-Development-informational?style=flat&logo=python&logoColor=white&color=3776AB"/>
   <img src="https://img.shields.io/badge/PowerShell-Automation-informational?style=flat&logo=powershell&logoColor=white&color=5391FE"/>
   <img src="https://img.shields.io/badge/Nmap-Network_Scanner-informational?style=flat&color=004d7a"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud_Security-informational?style=flat&logo=amazon-aws&logoColor=white&color=FF9900"/>
   <img src="https://img.shields.io/badge/Burp_Suite-Web_Security-informational?style=flat&color=FF6F00"/>
   <img src="https://img.shields.io/badge/Metasploit-Exploit_Framework-informational?style=flat&color=0F0F0F"/>
 </p>
@@ -45,6 +46,9 @@ https://lovethewor1d.github.io/Love-CV/
   </a>
   <a href="https://www.credential.net/50394801" target="_blank">
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50394801" alt="Certification 4"/>
+  </a>
+  <a href="https://pentestingexams.com/certificate-validation/" target="_blank">
+    <img src="https://exams.mayurvyas.me/wp-content/uploads/2023/10/cert-stamp-ccpenX-AWS-1.png" alt="Certification 4"/>
   </a>
 </p>
 
