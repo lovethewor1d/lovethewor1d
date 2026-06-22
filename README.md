@@ -2,7 +2,7 @@
 ---
 
 🌍 **Website**  
-https://lovethewor1d.github.io/Love-CV/
+[https://cv-ivory-theta.vercel.app/](https://cv-ivory-theta.vercel.app/)
 
 ---
 ## 🚀 Featured Projects
