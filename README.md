@@ -48,7 +48,10 @@
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50394801" alt="Certification 4" height="120"/>
   </a>
   <a href="https://pentestingexams.com/certificate-validation/" target="_blank">
-    <img src="https://cdn-ilekfgl.nitrocdn.com/NcpyqATAVFgbtDGVJKElVndRSDcDPwLh/assets/images/optimized/rev-e621b43/pentestingexams.com/wp-content/uploads/2023/10/cert-stamp-ccpenX-AWS.webp" alt="Certification 5" height="120"/>
+    <img src="https://pentestingexams.com/wp-content/uploads/2023/10/cert-stamp-ccpenX-AWS.webp" alt="Certification 5" height="120"/>
+  </a>
+    <a href="https://pentestingexams.com/certificate-validation/" target="_blank">
+    <img src="https://pentestingexams.com/wp-content/uploads/2026/03/cert-stamp-caaipen.webp" alt="Certification 5" height="120"/>
   </a>
 </p>
 
