@@ -2,7 +2,7 @@
 ---
 
 🌍 **Website**  
-[https://cv-ivory-theta.vercel.app/](https://cv-ivory-theta.vercel.app/)
+[https://lovesharma.vercel.app/](https://lovesharma.vercel.app/)
 
 ---
 ## 🚀 Featured Projects
