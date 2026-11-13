@@ -53,9 +53,8 @@
   <a href="https://pentestingexams.com/certificate-validation/" target="_blank">
     <img src="https://pentestingexams.com/wp-content/uploads/2026/03/cert-stamp-caaipen.webp" alt="Certification 6" height="120"/>
   </a>
-  <a href="https://www.credential.net/23b23db8-f3dc-4e3f-a961-bd5442f034ab" target="_blank">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/23b23db8-f3dc-4e3f-a961-bd5442f034ab" alt="Certification 7" height="120"/>
-  </a>
 </p>
+
+- [AI Cybersecurity and Governance](https://www.credential.net/23b23db8-f3dc-4e3f-a961-bd5442f034ab)
 
 ---
